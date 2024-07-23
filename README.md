@@ -107,4 +107,6 @@
 <p>Overall, the contract provides a straightforward interface for renting, returning, and refunding bikes, with each operation being logged through events to ensure transparency and traceability on the blockchain.</p>
 
 </body>
+
+<h1>Contract Address : 0x2cD6F8E4B0231e3d8fDE6a0A9C45D08c6B919fE0</h1>
 </html>
